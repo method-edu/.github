@@ -1,6 +1,8 @@
+## What is Method?
+
 - 🎨 **About Us**: Creating awesome CG art and helping you learn to be an artist.
-- 🌍 **Community**: Join our remote-first global network of designers, art directors, and 3D artists.
-- 👤 **Founder**: Misha Katz, the visionary behind our community.
+- 🌍 **Community**: Remote-first global network of designers, art directors, and 3D artists.
+- 👤 **Founder**: [Misha Katz](https://mishkatz.com/), the visionary behind our community.
 - 🏢 **Headquarters**: Located in Amsterdam, Netherlands.
 
 ## Our projects
